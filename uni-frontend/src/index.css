@@ -63,3 +63,10 @@ a {
         padding: 14px 22px;
     }
 }
+
+@media (max-width: 856px) {
+    .container {
+        padding-top: 10px;
+    }
+
+}
