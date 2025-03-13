@@ -67,6 +67,7 @@ a {
 @media (max-width: 856px) {
     .container {
         padding-top: 10px;
+        padding-bottom: 10px;
     }
 
 }
