@@ -49,6 +49,9 @@ nav ul li {
 }
 
 @media (max-width:856px) {
+    * {
+        margin-top: 10px;
+    }
 
 
     nav {
